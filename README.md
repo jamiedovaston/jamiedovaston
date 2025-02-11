@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm Jamie, a passionate games design and programmi
 
 ## 💬 Let's connect!
 - [LinkedIn](https://www.linkedin.com/in/jamiedovaston)
-- [Personal Website](http://jamiedovaston.com/)
+- [Portfolio](http://jamiedovaston.com/)
 
 Feel free to reach out if you'd like to collaborate or just have a chat about game design and programming!
 
