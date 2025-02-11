@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm Jamie, a passionate games design and programmi
 
 ## 🔭 What I'm working on:
 - Recently signed up to Steamworks and have been working with Steams API to create my own game API.
-- Working on my degree with projects on all sides of development.
+- Working on my university degree in Games Design and Programming @ University of Staffordshire.
 - Collaborating on different projects - long term, and game jams!
 
 ## 🌱 What I'm learning:
