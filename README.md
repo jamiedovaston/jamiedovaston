@@ -3,6 +3,7 @@
 
 ![Header Image](http://jamie-portfolio-zipline.xrdxno.easypanel.host/u/QFOZKf.png)
 
+
 Welcome to my GitHub profile! I'm Jamie, a passionate games design and programming student with a love for creating immersive and engaging experiences. Here's a bit about me:
 
 ## 🔭 What I'm working on:
